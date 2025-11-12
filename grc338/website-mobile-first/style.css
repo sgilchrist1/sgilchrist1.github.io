@@ -164,7 +164,7 @@ nav ul li a {
 footer {
   position: absolute;
   bottom: -3em;
-  width: 100%;
+  width: 120%;
   height: 3rem; 
   box-sizing: border-box;
   padding: .5em;
